@@ -1,14 +1,17 @@
 # MYPAPR — Pentaksiran Alternatif Pendidikan Rendah
 
-Aplikasi perekodan evidens murid MBPK: mampat video & gambar, kolaj, edit gambar & video, fokus kepala & muka, rekod manual, potong & gabung video, Galeri Saya dan Jana URL.
+Aplikasi perekodan evidens murid MBPK untuk Windows 10/11 (64-bit): mampat video & gambar, kolaj, edit gambar & video, fokus kepala & muka, rekod manual (Ketik Langkah / Seret), potong & gabung video, Galeri Saya dan Jana URL. Berfungsi tanpa internet (kecuali Jana URL).
 
-## Muat turun (Windows)
-Pergi ke **[Releases](../../releases/latest)** dan klik:
-- **MYPAPR-Setup-1.4.0.exe** — pemasang (disyorkan)
+## Cara muat turun & pasang (versi 1.4.0)
 
-## Cara pasang
-1. Buka folder **Downloads**, klik dua kali **MYPAPR-Setup-1.4.0.exe**.
-2. Jika keluar amaran SmartScreen: **More info → Run anyway**.
-3. Buka MYPAPR melalui ikon di Desktop atau menu Start.
+1. Di laman ini, klik butang hijau **`<> Code`**, kemudian **Download ZIP** (lebih kurang 127 MB).
+2. Buka folder **Downloads**. Klik kanan **mypapr-main.zip** → **Extract All** → **Extract**.
+3. Dalam folder yang terbuka, klik dua kali **PASANG-MYPAPR.bat**.
+   - Jika keluar amaran biru *"Windows protected your PC"*: klik **More info** → **Run anyway**.
+4. Pemasang **MYPAPR-Setup-1.4.0.exe** akan dibuka sendiri. Ikut langkah pemasangan.
+5. Buka MYPAPR melalui ikon di Desktop atau menu Start.
 
-Keperluan: Windows 10/11 64-bit. Berfungsi tanpa internet (kecuali Jana URL).
+> Pemasang dipecahkan kepada 2 bahagian kerana had saiz fail GitHub (100 MB).
+> `PASANG-MYPAPR.bat` mencantumkannya semula, menyemak fail tidak rosak (SHA-256), dan membuka pemasang.
+
+**SHA-256 MYPAPR-Setup-1.4.0.exe:** `4fd0858d00cfd7b5a7129f870341665c46c5440fe8329f97f964cddf280acf0f`
